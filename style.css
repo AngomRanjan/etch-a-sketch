@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.canvas{
+    box-sizing: content-box;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap:0px;
+    width: 600px;
+    height: 600px;
+    box-shadow:2px 4px grey;
+    border:1px solid grey;
+    margin: 30px auto;
+}
+.unit{
+    box-sizing: border-box;
+    
+}
