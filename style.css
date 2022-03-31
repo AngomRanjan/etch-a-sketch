@@ -25,6 +25,12 @@
 .unit{
     box-sizing: border-box;
     transition: all 0.3s ease-in;
+    background-color: white;
+}
+.unit2{
+    box-sizing: border-box;
+    transition: all 0.3s ease-in;
+    background-color: rgb(12, 12, 235);
 }
 .reset{
     width: 200px;

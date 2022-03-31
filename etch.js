@@ -21,7 +21,7 @@ function addEvLis(){
     
     document.querySelectorAll('.unit').forEach(item => {
         item.addEventListener('mouseover', event =>
-          item.style.backgroundColor='red')
+          item.classList.toggle('unit2'))
       });
 
 }
