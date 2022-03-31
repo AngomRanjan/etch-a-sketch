@@ -1,1 +1,3 @@
 # etch-a-sketch
+This project is was done as an assignment for The Odin Projects Foundations Javascripts Basic's unit 15
+PROJECT: ETCH-A-SKETCH. This fulfil only the basics requirement stated in the said assigment. The page will create a dynamic 64x64 grid onload. Reset button will clear the grid and create a new grid of specified numbers of squares per side. However the number of squares per side is restricted to a value between 1 to hundred.
