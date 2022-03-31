@@ -31,4 +31,8 @@
     height:40px;
     border-radius: 5px;
     background-color: #9630e9;
+    color: wheat;
+    font-size: 1.2em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
 }
