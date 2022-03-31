@@ -3,7 +3,13 @@
     margin: 0px;
     padding: 0px;
 }
-
+#container{
+    width: 600px;
+    margin: 30px auto;
+    
+    display: flex;
+    justify-content: center;
+}
 .canvas{
     box-sizing: content-box;
     display: flex;
@@ -19,4 +25,10 @@
 .unit{
     box-sizing: border-box;
     transition: all 0.3s ease-in;
+}
+.reset{
+    width: 200px;
+    height:40px;
+    border-radius: 5px;
+    background-color: #9630e9;
 }
