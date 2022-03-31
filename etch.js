@@ -15,3 +15,7 @@ function createUnitPixel(uSize)
 }
 
 createUnitPixel(16);
+var a=document.querySelectorAll('.unit').forEach(item => {
+    item.addEventListener('mouseover', event =>
+      item.style.backgroundColor='red')
+  });
